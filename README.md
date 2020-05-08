@@ -4,6 +4,6 @@ Regression is simple and efficient statistics learning algorithms, used as a bas
 Logistic regression implements the sigmoid function for binary classification and softmax for multiclass classification. Gradient descent is used to calculate the variable learning rate.
 
 ## Contents.
-`code.py`- Python code.
-`report.pdf` - The report describes the theoretical fundamentals, datasets, algorithm and result analysis.
+`code.py`- Python code.  
+`report.pdf` - The report describes the theoretical fundamentals, datasets, algorithm and result analysis.  
 `diabetes`: Dataset used to train the model.
