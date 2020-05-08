@@ -5,5 +5,5 @@ Logistic regression implements the sigmoid function for binary classification an
 
 ## Contents
 `code.py`- Python code.  
-`report.pdf` - The report describes the theoretical fundamentals, datasets, algorithm and result analysis.  
+`Report` - The report describes the theoretical fundamentals, datasets, algorithm and result analysis. Contains the PDF and R Markdown files.
 `diabetes`: Dataset used to train the model.
